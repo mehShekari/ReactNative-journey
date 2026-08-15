@@ -32,6 +32,17 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts//Roboto/RobotoMono-Regular.ttf",
+            "./assets/fonts/Roboto/RobotoMono-Bold.ttf",
+            "./assets/fonts/Roboto/RobotoMono-Light.ttf",
+            "./assets/fonts/Roboto/RobotoMono-Medium.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
